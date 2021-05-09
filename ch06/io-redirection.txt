@@ -1,0 +1,29 @@
+Std output redirection
+total 40
+-rw-r--r--   1 victor.teodoro  staff    21B May  9 18:41 HEAD
+-rw-r--r--   1 victor.teodoro  staff   322B May  9 18:41 config
+-rw-r--r--   1 victor.teodoro  staff    73B May  9 18:41 description
+drwxr-xr-x  15 victor.teodoro  staff   480B May  9 18:41 hooks
+-rw-r--r--   1 victor.teodoro  staff   209B May  9 18:41 index
+drwxr-xr-x   3 victor.teodoro  staff    96B May  9 18:41 info
+drwxr-xr-x   4 victor.teodoro  staff   128B May  9 18:41 logs
+drwxr-xr-x   4 victor.teodoro  staff   128B May  9 18:41 objects
+-rw-r--r--   1 victor.teodoro  staff   112B May  9 18:41 packed-refs
+drwxr-xr-x   5 victor.teodoro  staff   160B May  9 18:41 refs
+
+Std error redirection
+ls: /bin/usr: No such file or directory
+
+Std output and error redirection
+total 40
+-rw-r--r--   1 victor.teodoro  staff    21B May  9 18:41 HEAD
+-rw-r--r--   1 victor.teodoro  staff   322B May  9 18:41 config
+-rw-r--r--   1 victor.teodoro  staff    73B May  9 18:41 description
+drwxr-xr-x  15 victor.teodoro  staff   480B May  9 18:41 hooks
+-rw-r--r--   1 victor.teodoro  staff   209B May  9 18:41 index
+drwxr-xr-x   3 victor.teodoro  staff    96B May  9 18:41 info
+drwxr-xr-x   4 victor.teodoro  staff   128B May  9 18:41 logs
+drwxr-xr-x   4 victor.teodoro  staff   128B May  9 18:41 objects
+-rw-r--r--   1 victor.teodoro  staff   112B May  9 18:41 packed-refs
+drwxr-xr-x   5 victor.teodoro  staff   160B May  9 18:41 refs
+ls: /bin/usr: No such file or directory
